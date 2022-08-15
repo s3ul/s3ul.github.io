@@ -8,10 +8,8 @@
       <url>https://s3ul.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://s3ul.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://s3ul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
-.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 15 Aug 2022 11:30:03 +0900</lastBuildDate><atom:link href="https://s3ul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>NTP(Network Time Protocol)의 이해</title>
       <link>https://s3ul.github.io/categories/network/understanding-of-ntp/</link>
