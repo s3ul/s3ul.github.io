@@ -2,17 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://s3ul.github.io/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://s3ul.github.io/tags/network/</loc>
+    <lastmod>2022-08-15T11:30:03+09:00</lastmod>
   </url><url>
-    <loc>https://s3ul.github.io/ntp/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <loc>https://s3ul.github.io/posts/understanding-of-ntp/understanding-of-ntp/</loc>
+    <lastmod>2022-08-15T11:30:03+09:00</lastmod>
+  </url><url>
+    <loc>https://s3ul.github.io/posts/</loc>
+    <lastmod>2022-08-15T11:30:03+09:00</lastmod>
   </url><url>
     <loc>https://s3ul.github.io/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-08-15T11:30:03+09:00</lastmod>
   </url><url>
     <loc>https://s3ul.github.io/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+    <lastmod>2022-08-15T11:30:03+09:00</lastmod>
   </url><url>
     <loc>https://s3ul.github.io/categories/</loc>
   </url>
