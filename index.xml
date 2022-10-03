@@ -19,5 +19,14 @@
       <description>NTP에 대한 이해와 NTP 서버 동기화를 통해 정확한 서버시간 받아오기</description>
     </item>
     
+    <item>
+      <title>1. Introduction - Machine Learning for Graphs</title>
+      <link>https://s3ul.github.io/categories/cs224w/1_introduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://s3ul.github.io/categories/cs224w/1_introduction/</guid>
+      <description>Introduction - CS224W: Machine Learning with Graphs</description>
+    </item>
+    
   </channel>
 </rss>

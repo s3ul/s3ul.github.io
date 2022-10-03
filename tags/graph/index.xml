@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Categories on SeulSite</title>
-    <link>https://s3ul.github.io/categories/</link>
-    <description>Recent content in Categories on SeulSite</description>
+    <title>Graph on SeulSite</title>
+    <link>https://s3ul.github.io/tags/graph/</link>
+    <description>Recent content in Graph on SeulSite</description>
     <image>
       <url>https://s3ul.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://s3ul.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://s3ul.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
-.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>NTP(Network Time Protocol)의 이해</title>
-      <link>https://s3ul.github.io/categories/understanding-of-ntp/</link>
-      <pubDate>Mon, 15 Aug 2022 11:30:03 +0900</pubDate>
-      
-      <guid>https://s3ul.github.io/categories/understanding-of-ntp/</guid>
-      <description>NTP에 대한 이해와 NTP 서버 동기화를 통해 정확한 서버시간 받아오기</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://s3ul.github.io/tags/graph/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>1. Introduction - Machine Learning for Graphs</title>
       <link>https://s3ul.github.io/categories/cs224w/1_introduction/</link>
