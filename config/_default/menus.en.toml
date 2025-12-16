@@ -11,25 +11,31 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Blog"
-  pageRef = "posts"
+  name = "Cybersecurity"
   weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Case Studies"
+  parent = "Cybersecurity"
+  pageRef = "posts/case"
+  weight = 10
 
-#[[main]]
-#  name = "example sub-menu 1"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "Tech & Tutorials"
+  parent = "Parent"
+  pageRef = "posts/tech"
+  weight = 10
 
-#[[main]]
-#  name = "example sub-menu 2"
-#  parent = "Parent"
-#  pageRef = "posts"
-#  weight = 20
+[[main]]
+  name = "TWIL"
+  pageRef = "posts/twil"
+  weight = 20
+
+[[main]]
+  name = "Thought"
+  pageRef = "posts/thought"
+  weight = 30
+
 
 #[[subnavigation]]
 #  name = "An interesting topic"
