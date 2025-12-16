@@ -24,7 +24,7 @@
   name = "Tech & Tutorials"
   parent = "Parent"
   pageRef = "posts/tech"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "TWIL"
