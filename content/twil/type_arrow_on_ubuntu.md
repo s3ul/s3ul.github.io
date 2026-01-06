@@ -2,18 +2,19 @@
 title: "Type Arrow on Ubuntu"
 # weight: 2
 draft: false
-description: "Use input methods to type special character on Ubuntu."
-tags: ["linux"]
+description: "Use input methods to type special characters on Ubuntu."
+tags: ["linux", "english"]
 # series_order: 
 categories: ["tips"]
 date: 2025-10-13 00:00:00+0900
 ---
 
 ## Problem
-Typing arrows in plain text
+How to type arrow characters in plain text
 ## Solution
-1. press `ctrl`+`shift`+`u`
-2. type one of the 4-digit hexadecimal codes
+1. Press `Ctrl`+`Shift`+`U` (you should see an underlined 'u')
+2. Type one of the 4-digit hexadecimal codes below
+3. Press `Enter` or `Space` to insert the character
 
 | Character | Hex  |
 | --------- | ---- |
