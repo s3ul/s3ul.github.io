@@ -1,7 +1,7 @@
 ---
 title: "Breaking Windows Password"
 # weight: 2
-draft: true
+draft: false
 description: "How to bypass the Windows login screen on a local machine"
 tags: ["windows", "korean"]
 # series_order: 
