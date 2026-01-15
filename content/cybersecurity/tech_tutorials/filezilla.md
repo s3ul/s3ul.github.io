@@ -11,7 +11,7 @@ date: 2026-01-06 00:00:00+0900
 
 ## Challenge
 Checking traces of login success/failure/attempts when using FileZilla Portable
-![FileZilla Portable](../../../assets/filezilla/01_filezilla.png)
+![FileZilla Portable](filezilla/01_filezilla.png)
 ## Findings
 **The generated files do not indicate whether a user successfully logged into services.**
 ### .\Data\settings\recentservers.xml
@@ -38,7 +38,7 @@ When you click the Save Password button, the base64-encoded password is saved in
 ```
 ### FTPS(port: 21) - .\Data\settings\trustedcerts.xml
 If you select "Always trust this certificate in future sessions" afterward, `trustedcerts.xml` is created as shown below. **You cannot determine whether the connection was successful.**
-![FTPS](../../../assets/filezilla/02_ftps.png)
+![FTPS](filezilla/02_ftps.png)
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <FileZilla3 version="3.69.3" platform="windows">
@@ -61,6 +61,6 @@ If you select "Always trust this certificate in future sessions" afterward, `tru
 ### SFTP(port: 22) - HKEY_CURRENT_USER\Software\FileZillaPo\PuTTY\SshHostKeys
 - In the dialog below, you must check the "Always trust this host, add key to cache" checkbox.
 - If unchecked, the host key will not be registered in the registry. If checked, the key will be created. **You cannot determine whether the connection was successful.**
-![SFTP](../../../assets/filezilla/03_sftp.png)
-![FileZilla-Putty](../../../assets/filezilla/04_filezilla-putty.png)
-![Registry](../../../assets/filezilla/05_reg.png)
+![SFTP](filezilla/03_sftp.png)
+![FileZilla-Putty](filezilla/04_filezilla-putty.png)
+![Registry](filezilla/05_reg.png)
