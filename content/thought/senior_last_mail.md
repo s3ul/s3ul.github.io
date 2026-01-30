@@ -1,5 +1,5 @@
 ---
-title: "퇴사하는 회사 선배의 마지막 메일"
+title: "퇴사하는 선배의 마지막 메일"
 draft: false
 description: "10년이 지날때 쯤 이해하게 된 이야기"
 tags: ["korean"]
